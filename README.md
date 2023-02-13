@@ -1,7 +1,7 @@
 Addicted to  
 * algorithms  
 * mathematics  
-* source programs  
+* interesting programs  
 ...  
 
 
